@@ -10,7 +10,8 @@
 |-------|---------|
 | Title | Ayn El Hawa – Where is the Love |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 23, 2026 |
+| Lyric Writing Date | April 20, 2026 |
+| Song Page | [Open Song Page](https://imabusayed.github.io/ayn-el-hawa-where-is-the-love/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
 
@@ -18,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> أين الهوى في عتمة هذا الليل.. أين الهوى..
+> أبحث عن طيفك في صمت طويل
+> نار الأشواق تحرق كل المسافات
+> وشوقي إليك يغلب كل الكلمات
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
